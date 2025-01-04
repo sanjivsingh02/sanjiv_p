@@ -1,0 +1,12 @@
+
+@keyframes backgroundAnimation {
+  0% {
+    background-color: #2A2F44;
+  }
+  50% {
+    background-color: #1A202C;
+  }
+  100% {
+    background-color: #2A2F44;
+  }
+}
